@@ -1,11 +1,4 @@
 # prompt
 my reminders
 
-# Проба пера
-перо пробуется
-# Проба пера 2
-перо 2 пробуется 
-
-# Проба пера с отступом
-
-проба пера с отступом
+here contains frequently used things that I always forget
